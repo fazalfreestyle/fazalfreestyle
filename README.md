@@ -10,14 +10,14 @@
   <b>My focus areas currently encompass:
     <ul>
       <b>Computer vision</b>
-      <li>Deep learning</li>
-      <li>ROS (Robot Operating System)</li>
-      <li>Vision-Based Manipulation</li>
-      <li>Motion Planning</li>
-      <li>Sensor fusion</li>
-      <li>Intelligent systems</li>
-      <li>Simulations</li>
-      <li>Human-Robot interactions</li>
+      <b>Deep learning</b>
+      <b>ROS (Robot Operating System)</b>
+      <b>Vision-Based Manipulation</b>
+      <b>Motion Planning</b>
+      <b>Sensor fusion</b>
+      <b>Intelligent systems</b>
+      <b>Simulations</b>
+      <b>Human-Robot interactions</b>
     </ul>
   </li>
 </ul>
