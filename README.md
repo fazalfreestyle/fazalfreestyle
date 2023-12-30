@@ -1,4 +1,4 @@
 <h1>Hi, I'm Fazal! <br/><a href="https://www.linkedin.com/in/fazal-rahaman-pasha-mohammed-600775181/">Robotics Enthusiast and Engineer</a></h1>
 
-<h2> **About me** </h2>
+<h2> <strong>About me</strong> </h2>
 I'm glad you chose to look at my GitHub. My name is Fazal, and I have a strong interest in robotics. I currently wish to work as a Software Robotics Engineer. I received my bachelor's degree in electronics and communication engineering in 2021, and as of fall 2023, I'm enrolled at University of Michigan Dearborn to pursue a master's degree in robotics. I fell in love with robots during my undergraduate studies. I became more interested in robotics and built a few basic do-it-yourself projects. After that, I discovered there was a lot I still didn't know about robotics and started my learning journey. Right now, I'm studying and concentrating on the following topics: computer vision, deep learning, ROS, Vision Based Manipulation, Motion Planning, Sensor fusion, Intelligent systems, Simulations, and Human-Robots interactions.
