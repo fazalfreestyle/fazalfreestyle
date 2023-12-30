@@ -8,13 +8,13 @@
 - <b>My interest in robotics blossomed during my undergraduate studies, where I began exploring DIY robotics projects.</b>
 - <b>The initial projects ignited a deeper curiosity, prompting me to embark on an extensive learning journey in robotics.</b>
 - My focus areas currently encompass:
-  -<b>Computer vision</b>
-  -<b>Deep learning</b>
-  -<b>ROS (Robot Operating System)</b>
-  -<b>Vision-Based Manipulation</b>
-  -<b>Motion Planning</b>
-  -<b>Sensor fusion</b>
-  -<b>Intelligent systems</b>
-  -<b>Simulations</b>
-  -<b>Human-Robot interactions</b>
+  - <b>Computer vision</b>
+  - <b>Deep learning</b>
+  - <b>ROS (Robot Operating System)</b>
+  - <b>Vision-Based Manipulation</b>
+  - <b>Motion Planning</b>
+  - <b>Sensor fusion</b>
+  - <b>Intelligent systems</b>
+  - <b>Simulations</b>
+  - <b>Human-Robot interactions</b>
 </ul>
