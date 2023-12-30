@@ -2,14 +2,14 @@
 
 <h2> <strong>About me</strong> </h2>
 <ul>
-  <li>My name is Fazal, and I'm enthusiastic about robotics, aiming to pursue a career as a Software Robotics Engineer.</li>
-  <li>I completed my bachelor's degree in electronics and communication engineering in 2021.</li>
-  <li>Currently enrolled at the University of Michigan Dearborn, pursuing a master's degree in robotics since fall 2023.</li>
-  <li>My interest in robotics blossomed during my undergraduate studies, where I began exploring DIY robotics projects.</li>
-  <li>The initial projects ignited a deeper curiosity, prompting me to embark on an extensive learning journey in robotics.</li>
-  <li>My focus areas currently encompass:
+  <b>My name is Fazal, and I'm enthusiastic about robotics, aiming to pursue a career as a Software Robotics Engineer.</b>
+  <b>I completed my bachelor's degree in electronics and communication engineering in 2021.</b>
+  <b>Currently enrolled at the University of Michigan Dearborn, pursuing a master's degree in robotics since fall 2023.</li>
+  <b>My interest in robotics blossomed during my undergraduate studies, where I began exploring DIY robotics projects.</li>
+  <b>The initial projects ignited a deeper curiosity, prompting me to embark on an extensive learning journey in robotics.</li>
+  <b>My focus areas currently encompass:
     <ul>
-      <li>Computer vision</li>
+      <b>Computer vision</b>
       <li>Deep learning</li>
       <li>ROS (Robot Operating System)</li>
       <li>Vision-Based Manipulation</li>
