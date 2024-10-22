@@ -20,5 +20,3 @@
     <li><b>Human-Robot interactions</b></li>
   </ul>
 </ul>
-
-<h3><strong>Projects</strong></h3>
