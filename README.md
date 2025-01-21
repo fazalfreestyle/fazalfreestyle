@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a robotics enthusiast passionate about designing innov
 
 - 🏫 **Education**:
   - **MSE in Robotics Engineering**, University of Michigan Dearborn (2023–2025)
-  - **BE in Electronics and Communication Engineering**, Osmania University (2021)
+  - **BE in Electronics and Communication Engineering**, Osmania University (2017–2021)
 - 🌟 **Experience**: Over 2 years of academic and practical expertise in robotics, including:
   - **ROS-Based Systems**: Developing scalable, robust robotic frameworks.
   - **Collaborative Robots**: Working with Niryo Ned 2 robots for sorting and manipulation tasks.
