@@ -1,67 +1,95 @@
 # 👋 Hi, I'm Fazal Rahaman Pasha Mohammed
 
-### Robotics Engineer | ROS Specialist | Cybersecurity Enthusiast
+![Header](https://media.giphy.com/media/3o7aCV2nd7bh5WNYyQ/giphy.gif) <!-- Replace with a personalized header image or banner -->
 
-Welcome to my GitHub! I'm a robotics enthusiast passionate about designing innovative systems that merge intelligence and automation. With hands-on experience in robotics software and hardware, I am committed to pushing the boundaries of technology to build smarter, safer, and more adaptive robotic systems.
+### 🚀 Robotics Engineer | ROS Specialist | Cyber-Physical Security Enthusiast
 
----
-
-## 🎓 **About Me**
-
-- 🏫 **Education**:
-  - **MSE in Robotics Engineering**, University of Michigan Dearborn (2023–2025)
-  - **BE in Electronics and Communication Engineering**, Osmania University (2017–2021)
-- 🌟 **Experience**: Over 2 years of academic and practical expertise in robotics, including:
-  - **ROS-Based Systems**: Developing scalable, robust robotic frameworks.
-  - **Collaborative Robots**: Working with Niryo Ned 2 robots for sorting and manipulation tasks.
-  - **Cyber-Physical Security**: Researching and mitigating ROS vulnerabilities.
-  - **DIY Projects**: From crawling robots to vision-guided systems.
+Welcome to my GitHub! I'm a robotics enthusiast driven to design innovative systems that bridge intelligence and automation. My journey in robotics started with DIY projects during my undergraduate days and has now evolved into advanced research and development in areas like collaborative robotics, ROS vulnerabilities, and intelligent systems.
 
 ---
 
-## 🔧 **Skills and Expertise**
+## 🌟 **About Me**
 
-- **Robotics Tools**: ROS, ROS 2, Gazebo, Rviz, OpenCV  
-- **Programming Languages**: Python, C++, MATLAB, Embedded C  
-- **AI/ML Tools**: TensorFlow, PyTorch, ResNet, YOLOv8  
-- **Hardware Expertise**: STM32, Raspberry Pi, Jetson Nano, Arduino  
-- **Cybersecurity**: Wireshark, Docker, Nmap  
+- 🎓 **Education**:
+  - **MSE in Robotics Engineering**, University of Michigan Dearborn (2023–2025)  
+    Specializing in motion planning, vision-based manipulation, and cyber-physical security.  
+  - **BE in Electronics and Communication Engineering**, Osmania University (2021)  
 
-![Robotics GIF](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif) <!-- Replace with your preferred GIF -->
+- 💻 **Experience**:
+  - Researching and mitigating **ROS vulnerabilities** in collaborative robots.
+  - Developing **vision-guided robotic systems** using ROS and ResNet models.
+  - Prototyping secure ECU authentication systems using **neural networks** and **PUFs**.
+
+---
+
+## 🔧 **Skills & Tools**
+<div align="center">
+  <img src="https://img.shields.io/badge/Robotics-ROS-blue" alt="ROS">
+  <img src="https://img.shields.io/badge/Simulation-Gazebo-yellow" alt="Gazebo">
+  <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Programming-Python-green" alt="Python">
+  <img src="https://img.shields.io/badge/Hardware-Raspberry%20Pi-red" alt="Raspberry Pi">
+</div>
+
+### Areas of Expertise:
+- 🖼️ **Computer Vision**: Scene understanding and object detection.
+- 🤖 **Deep Learning**: Neural networks for intelligent decision-making.
+- 🌐 **ROS & ROS 2**: Scalable and modular frameworks for robotics.
+- 📍 **Motion Planning**: Efficient navigation and task execution.
+- 📡 **Sensor Fusion**: Integrating data from multiple sources for accuracy.
+
+---
+
+## 🌌 **Current Focus**
+I’m exploring cutting-edge technologies in:
+- Vision-Based Manipulation
+- Cybersecurity in Robotics
+- Human-Robot Collaboration
+- Autonomous Navigation
+
+![Robotics GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif) <!-- Replace with relevant GIF -->
 
 ---
 
 ## 🚀 **Highlighted Projects**
-Here’s a glimpse of my work. Check out my repositories for more!
 
-### 🌐 [Collaborative Robot Application](https://github.com/your-username/collaborative-robot-app)
-- Developed a ROS-powered sorting system using Niryo Ned 2 robots.
-- Achieved 98.6% object classification accuracy and improved sorting efficiency by 30%.
-
-### 🔒 [ROS Vulnerability Research](https://github.com/your-username/ros-vulnerability-research)
-- Identified and mitigated critical vulnerabilities in ROS-based systems.
-- Proposed countermeasures for improved robotic security.
-
-### 🏭 [Autonomous Warehouse Simulation](https://github.com/your-username/autonomous-warehouse-sim)
-- Simulated warehouse automation with path planning and object picking using ROS 2 and Gazebo.
+### 🌟 [Collaborative Robot Application](https://github.com/your-username/collaborative-robot-app)
+![Collaborative Robot](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif) <!-- Replace with project GIF -->
+- **Overview**: Vision-based sorting system using Niryo Ned 2 robots.
+- **Results**: Achieved 98.6% classification accuracy and improved sorting efficiency by 30%.
 
 ---
 
-## 🌱 **Current Focus**
-I’m currently exploring:
-- Vision-Based Manipulation
-- Motion Planning for Autonomous Systems
-- Human-Robot Collaboration
-- ROS 2 for next-gen robotics
-- Cybersecurity in Cyber-Physical Systems
+### 🔒 [ROS Vulnerability Research](https://github.com/your-username/ros-vulnerability-research)
+![ROS Security](https://media.giphy.com/media/3orieQ3k32c5JS2CAk/giphy.gif) <!-- Replace with project GIF -->
+- **Overview**: Identified and mitigated ROS vulnerabilities.
+- **Outcome**: Proposed countermeasures to enhance security in collaborative robotics.
+
+---
+
+### 🏭 [Autonomous Warehouse Simulation](https://github.com/your-username/autonomous-warehouse-sim)
+![Warehouse Automation](https://media.giphy.com/media/xUPJPDfgTrp8fgXSwU/giphy.gif) <!-- Replace with project GIF -->
+- **Overview**: Simulated warehouse automation using ROS 2 and Gazebo.
+- **Achievements**: Designed efficient path planning and object-picking algorithms.
+
+---
+
+## 📸 **Media Showcase**
+Take a glimpse into my work:
+
+### 🎥 **Sorting System Demo**
+![Sorting Demo](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif) <!-- Replace with your project demo GIF -->
+
+### 🛠️ **Robot in Action**
+![Robot Action](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif) <!-- Replace with your robot demo GIF -->
 
 ---
 
 ## 📫 **Let's Connect**
-- **Email**: [fazalrahaman1999@gmail.com](mailto:fazalrahaman1999@gmail.com)  
-- **LinkedIn**: [fazal-rahaman-pasha-mohammed](https://www.linkedin.com/in/fazal-rahaman-pasha-mohammed-600775181/)  
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- 📧 **Email**: [fazalrahaman1999@gmail.com](mailto:fazalrahaman1999@gmail.com)  
+- 💼 **LinkedIn**: [fazal-rahaman-pasha-mohammed](https://www.linkedin.com/in/fazal-rahaman-pasha-mohammed-600775181/)  
+- 🌐 **GitHub**: [github.com/your-username](https://github.com/your-username)
 
 ---
 
-![Thank You GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) <!-- Replace with a thank-you GIF -->
+![Thank You GIF](https://media.giphy.com/media/l0HlPjezGYj3lJrYw/giphy.gif) <!-- Replace with a thank-you GIF -->
