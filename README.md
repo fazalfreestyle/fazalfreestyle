@@ -1,89 +1,79 @@
-# 👋 Hi, I'm Fazal Rahaman Pasha Mohammed
+# Hi, I'm Fazal Rahaman Pasha Mohammed
 
-![Header](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif) <!-- Welcome banner -->
+### Robotics Engineer | ROS Specialist | Cyber-Physical Security Enthusiast
 
-### 🚀 Robotics Engineer | ROS Specialist | Cyber-Physical Security Enthusiast
-
-Welcome to my GitHub! I'm a robotics enthusiast driven to design innovative systems that bridge intelligence and automation. My journey in robotics started with DIY projects during my undergraduate days and has now evolved into advanced research and development in areas like collaborative robotics, ROS vulnerabilities, and intelligent systems.
+Welcome to my GitHub profile! I am a robotics engineer passionate about designing intelligent systems that bridge technology and automation. My expertise spans across robotics software, hardware integration, and research in cyber-physical security. I strive to develop innovative solutions to complex challenges in robotics and automation.
 
 ---
 
-## 🌟 **About Me**
+## About Me
 
 - 🎓 **Education**:
   - **MSE in Robotics Engineering**, University of Michigan Dearborn (2023–2025)  
-    Specializing in motion planning, vision-based manipulation, and cyber-physical security.  
+    Specializing in motion planning, vision-based manipulation, and cybersecurity in robotics.  
   - **BE in Electronics and Communication Engineering**, Osmania University (2021)  
 
 - 💻 **Experience**:
-  - Researching and mitigating **ROS vulnerabilities** in collaborative robots.
-  - Developing **vision-guided robotic systems** using ROS and ResNet models.
-  - Prototyping secure ECU authentication systems using **neural networks** and **PUFs**.
+  - Conducting research on **ROS vulnerabilities**, identifying critical flaws, and proposing countermeasures to enhance cybersecurity.
+  - Developing **vision-guided robotic systems** using ROS frameworks and deep learning models.
+  - Prototyping secure ECU authentication systems using **neural networks** and **Physical Unclonable Functions (PUFs)**.
 
-![About Me GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
-
----
-
-## 🔧 **Skills & Tools**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Robotics-ROS-blue" alt="ROS">
-  <img src="https://img.shields.io/badge/Simulation-Gazebo-yellow" alt="Gazebo">
-  <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Programming-Python-green" alt="Python">
-  <img src="https://img.shields.io/badge/Hardware-Raspberry%20Pi-red" alt="Raspberry Pi">
-</div>
-
-### Areas of Expertise:
-- 🖼️ **Computer Vision**: Scene understanding and object detection.
-- 🤖 **Deep Learning**: Neural networks for intelligent decision-making.
-- 🌐 **ROS & ROS 2**: Scalable and modular frameworks for robotics.
-- 📍 **Motion Planning**: Efficient navigation and task execution.
-- 📡 **Sensor Fusion**: Integrating data from multiple sources for accuracy.
-
-![Skills GIF](https://media.giphy.com/media/l0HU7CSJazxjqixZ2/giphy.gif)
+- 🌱 **Current Focus**:
+  - Vision-based manipulation
+  - Motion planning and autonomous navigation
+  - Human-robot collaboration
+  - Cybersecurity in cyber-physical systems
 
 ---
 
-## 🚀 **Highlighted Projects**
+## Skills & Expertise
 
-### 🌟 [Collaborative Robot Application](https://github.com/your-username/collaborative-robot-app)
-![Collaborative Robot](https://media.giphy.com/media/3o6ZsYm5l6mkMt5nbu/giphy.gif)
-- **Overview**: Vision-based sorting system using Niryo Ned 2 robots.
-- **Results**: Achieved 98.6% classification accuracy and improved sorting efficiency by 30%.
-
----
-
-### 🔒 [ROS Vulnerability Research](https://github.com/your-username/ros-vulnerability-research)
-![ROS Security](https://media.giphy.com/media/26FmRLBRZfp3bIhQ8/giphy.gif)
-- **Overview**: Identified and mitigated ROS vulnerabilities.
-- **Outcome**: Proposed countermeasures to enhance security in collaborative robotics.
+- **Robotics Tools**: ROS, ROS 2, Gazebo, Rviz, MoveIt  
+- **Programming Languages**: Python, C++, MATLAB, Embedded C  
+- **AI/ML Frameworks**: TensorFlow, PyTorch, YOLO, ResNet  
+- **Hardware Expertise**: Raspberry Pi, STM32, Jetson Nano, Arduino  
+- **Cybersecurity Tools**: Wireshark, Docker, Nmap  
+- **Simulation Tools**: SolidWorks, Simulink, Gazebo, Simscape  
 
 ---
 
-### 🏭 [Autonomous Warehouse Simulation](https://github.com/your-username/autonomous-warehouse-sim)
-![Warehouse Automation](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)
-- **Overview**: Simulated warehouse automation using ROS 2 and Gazebo.
-- **Achievements**: Designed efficient path planning and object-picking algorithms.
+## Highlighted Projects
+
+### [Collaborative Robot Application](https://github.com/your-username/collaborative-robot-app)
+- **Overview**: Developed a vision-based object sorting system using Niryo Ned 2 robots.
+- **Technologies**: ROS, Python, ResNet-50  
+- **Key Achievements**:
+  - Achieved 98.6% classification accuracy for object detection.
+  - Improved sorting efficiency by 30%.
 
 ---
 
-## 📸 **Media Showcase**
-Take a glimpse into my work:
-
-### 🎥 **Sorting System Demo**
-![Sorting Demo](https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif)
-
-### 🛠️ **Robot in Action**
-![Robot Action](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+### [ROS Vulnerability Research](https://github.com/your-username/ros-vulnerability-research)
+- **Overview**: Researched vulnerabilities in ROS-based robotic systems and proposed security enhancements.
+- **Technologies**: ROS, Python  
+- **Key Achievements**:
+  - Identified critical flaws in ROS communication protocols.
+  - Published mitigation strategies to strengthen robotic security.
 
 ---
 
-## 📫 **Let's Connect**
+### [Autonomous Warehouse Simulation](https://github.com/your-username/autonomous-warehouse-sim)
+- **Overview**: Simulated an autonomous warehouse using ROS 2 and Gazebo.
+- **Technologies**: ROS 2, Python, TensorFlow  
+- **Key Achievements**:
+  - Designed path planning algorithms for efficient navigation.
+  - Enabled real-time object picking and placing in simulation.
+
+---
+
+## Contact
+
+I am always excited to collaborate on robotics and automation projects or discuss innovative ideas. Feel free to reach out!
+
 - 📧 **Email**: [fazalrahaman1999@gmail.com](mailto:fazalrahaman1999@gmail.com)  
 - 💼 **LinkedIn**: [fazal-rahaman-pasha-mohammed](https://www.linkedin.com/in/fazal-rahaman-pasha-mohammed-600775181/)  
 - 🌐 **GitHub**: [github.com/your-username](https://github.com/your-username)
 
 ---
 
-![Thank You GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+This README reflects my passion for robotics and my journey toward advancing automation. Let’s shape the future of robotics together!
