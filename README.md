@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fazal Rahaman Pasha Mohammed
 
-![Header](https://media.giphy.com/media/3o7aCV2nd7bh5WNYyQ/giphy.gif) <!-- Replace with a personalized header image or banner -->
+![Header](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif) <!-- Welcome banner -->
 
 ### 🚀 Robotics Engineer | ROS Specialist | Cyber-Physical Security Enthusiast
 
@@ -20,9 +20,12 @@ Welcome to my GitHub! I'm a robotics enthusiast driven to design innovative syst
   - Developing **vision-guided robotic systems** using ROS and ResNet models.
   - Prototyping secure ECU authentication systems using **neural networks** and **PUFs**.
 
+![About Me GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
 ---
 
 ## 🔧 **Skills & Tools**
+
 <div align="center">
   <img src="https://img.shields.io/badge/Robotics-ROS-blue" alt="ROS">
   <img src="https://img.shields.io/badge/Simulation-Gazebo-yellow" alt="Gazebo">
@@ -38,37 +41,28 @@ Welcome to my GitHub! I'm a robotics enthusiast driven to design innovative syst
 - 📍 **Motion Planning**: Efficient navigation and task execution.
 - 📡 **Sensor Fusion**: Integrating data from multiple sources for accuracy.
 
----
-
-## 🌌 **Current Focus**
-I’m exploring cutting-edge technologies in:
-- Vision-Based Manipulation
-- Cybersecurity in Robotics
-- Human-Robot Collaboration
-- Autonomous Navigation
-
-![Robotics GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif) <!-- Replace with relevant GIF -->
+![Skills GIF](https://media.giphy.com/media/l0HU7CSJazxjqixZ2/giphy.gif)
 
 ---
 
 ## 🚀 **Highlighted Projects**
 
 ### 🌟 [Collaborative Robot Application](https://github.com/your-username/collaborative-robot-app)
-![Collaborative Robot](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif) <!-- Replace with project GIF -->
+![Collaborative Robot](https://media.giphy.com/media/3o6ZsYm5l6mkMt5nbu/giphy.gif)
 - **Overview**: Vision-based sorting system using Niryo Ned 2 robots.
 - **Results**: Achieved 98.6% classification accuracy and improved sorting efficiency by 30%.
 
 ---
 
 ### 🔒 [ROS Vulnerability Research](https://github.com/your-username/ros-vulnerability-research)
-![ROS Security](https://media.giphy.com/media/3orieQ3k32c5JS2CAk/giphy.gif) <!-- Replace with project GIF -->
+![ROS Security](https://media.giphy.com/media/26FmRLBRZfp3bIhQ8/giphy.gif)
 - **Overview**: Identified and mitigated ROS vulnerabilities.
 - **Outcome**: Proposed countermeasures to enhance security in collaborative robotics.
 
 ---
 
 ### 🏭 [Autonomous Warehouse Simulation](https://github.com/your-username/autonomous-warehouse-sim)
-![Warehouse Automation](https://media.giphy.com/media/xUPJPDfgTrp8fgXSwU/giphy.gif) <!-- Replace with project GIF -->
+![Warehouse Automation](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)
 - **Overview**: Simulated warehouse automation using ROS 2 and Gazebo.
 - **Achievements**: Designed efficient path planning and object-picking algorithms.
 
@@ -78,10 +72,10 @@ I’m exploring cutting-edge technologies in:
 Take a glimpse into my work:
 
 ### 🎥 **Sorting System Demo**
-![Sorting Demo](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif) <!-- Replace with your project demo GIF -->
+![Sorting Demo](https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif)
 
 ### 🛠️ **Robot in Action**
-![Robot Action](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif) <!-- Replace with your robot demo GIF -->
+![Robot Action](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
 ---
 
@@ -92,4 +86,4 @@ Take a glimpse into my work:
 
 ---
 
-![Thank You GIF](https://media.giphy.com/media/l0HlPjezGYj3lJrYw/giphy.gif) <!-- Replace with a thank-you GIF -->
+![Thank You GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
