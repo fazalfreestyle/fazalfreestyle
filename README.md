@@ -94,7 +94,6 @@ I am always excited to collaborate on robotics and automation projects or discus
 
 - 📧 **Email**: [fazalrahaman1999@gmail.com](mailto:fazalrahaman1999@gmail.com)  
 - 💼 **LinkedIn**: [fazal-rahaman-pasha-mohammed](https://www.linkedin.com/in/fazal-rahaman-pasha-mohammed-600775181/)  
-- 🌐 **GitHub**: [github.com/your-username](https://github.com/your-username)
 
 ---
 
