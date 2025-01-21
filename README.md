@@ -26,14 +26,36 @@ Welcome to my GitHub profile! I am a robotics engineer passionate about designin
 
 ---
 
-## Skills & Expertise
+# 💻 Tech Stack
 
-- **Robotics Tools**: ROS, ROS 2, Gazebo, Rviz, MoveIt  
-- **Programming Languages**: Python, C++, MATLAB, Embedded C  
-- **AI/ML Frameworks**: TensorFlow, PyTorch, YOLO, ResNet  
-- **Hardware Expertise**: Raspberry Pi, STM32, Jetson Nano, Arduino  
-- **Cybersecurity Tools**: Wireshark, Docker, Nmap  
-- **Simulation Tools**: SolidWorks, Simulink, Gazebo, Simscape  
+### **Robotics & AI**
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![Gazebo](https://img.shields.io/badge/gazebo-%23F68D2E.svg?style=for-the-badge&logo=gazebo&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23FBF3FF.svg?style=for-the-badge&logo=opencv&logoColor=black)
+
+### **Programming**
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/matlab-%23FF7200.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-%23008498.svg?style=for-the-badge&logoColor=white)
+
+### **Hardware**
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-%23FF6F00.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+![STM32](https://img.shields.io/badge/stm32-%23007392.svg?style=for-the-badge&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+
+### **Simulation Tools**
+![SolidWorks](https://img.shields.io/badge/solidworks-%23DD0719.svg?style=for-the-badge&logo=solidworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/simulink-%23FF7200.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![Gazebo](https://img.shields.io/badge/gazebo-%23F68D2E.svg?style=for-the-badge&logo=gazebo&logoColor=white)
+
+### **Cybersecurity**
+![Wireshark](https://img.shields.io/badge/Wireshark-%230167A3.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%235F7F97.svg?style=for-the-badge&logo=nmap&logoColor=white)
 
 ---
 
